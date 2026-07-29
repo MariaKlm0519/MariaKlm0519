@@ -81,5 +81,5 @@
 
 ## Контакты
 
-- [Telegram](https://t.me/Yoluh)
+- [Telegram](https://t.me/kalm_maria)
 - Email: mashakalmykova@yandex.ru
