@@ -71,7 +71,7 @@
 
 ## Проекты по машинному обучению
 
-- [RAG-система для вопросов по сайту университета]()
+- [RAG-система для вопросов по сайту университета](https://github.com/MariaKlm0519/University-RAG-system)
 - [RAG-система по Трудовому кодексу РФ]()
 - [Классификация новостей (AG News)](https://github.com/MariaKlm0519/News-classification)
 - [Классификация изображений блюд (Food-101)](https://github.com/MariaKlm0519/Pytorch-food-classification)
