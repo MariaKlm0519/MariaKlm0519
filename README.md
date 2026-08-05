@@ -73,6 +73,7 @@
 
 - [Основы статистики](https://stepik.org/certificate/bf466d49f2ac529f88c6fee063781f4572d9105e.pdf)
 - [Pandas](https://www.kaggle.com/learn/certification/kalmykovamaria/pandas)
+- [Симулятор SQL от karpov.course](https://lab.karpov.courses/certificate/1acc9aa7-36bf-4c36-84f5-c0e581acb78c/)
 
 ---
 
