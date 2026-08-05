@@ -4,7 +4,6 @@
 
 Сейчас ищу первую позицию **аналитика** и постепенно развиваюсь в области машинного обучения и NLP. На GitHub публикую учебные и личные проекты по аналитике данных, визуализации, статистике и ML.
 
----
 
 ## Образование
 
@@ -16,7 +15,6 @@
 **НИУ «МЭИ»**  
 Бакалавриат, *Прикладная математика и информатика*
 
----
 
 ## Технологии
 
@@ -57,7 +55,6 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
----
 
 ## Проекты по аналитике данных
 
@@ -67,14 +64,17 @@
 - [Оптимизация логистической сети для снижения углеродного следа](https://github.com/MariaKlm0519/Co2_logistics_optimization)
 - [Аналитический дашборд Power BI по бронированию отелей](https://github.com/MariaKlm0519/Power-BI-Hotel-project)
 
----
-
 ## Проекты по машинному обучению
 
 - [RAG-система для вопросов по сайту университета](https://github.com/MariaKlm0519/University-RAG-system)
 - [RAG-система по Трудовому кодексу РФ](https://github.com/MariaKlm0519/Labor-codex-RAG)
 - [Классификация новостей (AG News)](https://github.com/MariaKlm0519/News-classification)
 - [Классификация изображений блюд (Food-101)](https://github.com/MariaKlm0519/Pytorch-food-classification)
+
+## Сертификаты
+
+- [Основы статистики](https://stepik.org/certificate/bf466d49f2ac529f88c6fee063781f4572d9105e.pdf)
+- [Pandas](https://www.kaggle.com/learn/certification/kalmykovamaria/pandas)
 
 ---
 
