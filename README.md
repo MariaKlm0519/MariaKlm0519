@@ -56,9 +56,10 @@
 
 ## Проекты по аналитике данных
 
+- [Анализ потребительского поведения в ритейле (кластеризация, ассоциативные правила)](https://github.com/MariaKlm0519/Consumer-behavior-analysis)
+- [Маркетинговое A/B исследование (проверка рандомизации, CUPED, guardian metric)](https://github.com/MariaKlm0519/Marketing-A-B-analysis)
 - [Анализ доходимости клиентов и проверка статистических гипотез](https://github.com/MariaKlm0519/Show-up-rate-analysis)
 - [Анализ тональности отзывов Amazon и выявление пользовательских трендов](https://github.com/MariaKlm0519/Review-analysis)
-- [Анализ потребительского поведения в ритейле (кластеризация, ассоциативные правила)](https://github.com/MariaKlm0519/Consumer-behavior-analysis)
 - [Оптимизация логистической сети для снижения углеродного следа](https://github.com/MariaKlm0519/Co2_logistics_optimization)
 - [Аналитический дашборд Power BI по бронированию отелей](https://github.com/MariaKlm0519/Power-BI-Hotel-project)
 
