@@ -57,7 +57,7 @@
 ## Проекты по аналитике данных
 
 - [Анализ потребительского поведения в ритейле (кластеризация, ассоциативные правила)](https://github.com/MariaKlm0519/Consumer-behavior-analysis)
-- [Маркетинговое A/B исследование (проверка рандомизации, CUPED, guardian metric)](https://github.com/MariaKlm0519/Marketing-A-B-analysis)
+- [Маркетинговое A/B исследование (проверка рандомизации, CUPED, guardrail metric)](https://github.com/MariaKlm0519/Marketing-A-B-analysis)
 - [Анализ доходимости клиентов и проверка статистических гипотез](https://github.com/MariaKlm0519/Show-up-rate-analysis)
 - [Анализ тональности отзывов Amazon и выявление пользовательских трендов](https://github.com/MariaKlm0519/Review-analysis)
 - [Оптимизация логистической сети для снижения углеродного следа](https://github.com/MariaKlm0519/Co2_logistics_optimization)
@@ -74,8 +74,8 @@
 
 - [Симулятор SQL от karpov.course](https://lab.karpov.courses/certificate/1acc9aa7-36bf-4c36-84f5-c0e581acb78c/)
 - [Основы статистики](https://stepik.org/certificate/bf466d49f2ac529f88c6fee063781f4572d9105e.pdf)
+- [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/kalmykovamaria/intermediate-machine-learning)
 - [Pandas](https://www.kaggle.com/learn/certification/kalmykovamaria/pandas)
-
 ---
 
 
