@@ -61,14 +61,18 @@
 - [Анализ доходимости клиентов и проверка статистических гипотез](https://github.com/MariaKlm0519/Show-up-rate-analysis)
 - [Анализ тональности отзывов Amazon и выявление пользовательских трендов](https://github.com/MariaKlm0519/Review-analysis)
 - [Оптимизация логистической сети для снижения углеродного следа](https://github.com/MariaKlm0519/Co2_logistics_optimization)
-- [Аналитический дашборд Power BI по бронированию отелей](https://github.com/MariaKlm0519/Power-BI-Hotel-project)
 
 ## Проекты по машинному обучению
 
 - [RAG-система для вопросов по сайту университета](https://github.com/MariaKlm0519/University-RAG-system)
-- [RAG-система по Трудовому кодексу РФ](https://github.com/MariaKlm0519/Labor-codex-RAG)
+- [Кредитный скоринг: предсказание дефолта по кредитной карте](https://github.com/MariaKlm0519/Credit-Scoring)
 - [Классификация новостей (AG News)](https://github.com/MariaKlm0519/News-classification)
+- [RAG-система по Трудовому кодексу РФ](https://github.com/MariaKlm0519/Labor-codex-RAG)
 - [Классификация изображений блюд (Food-101)](https://github.com/MariaKlm0519/Pytorch-food-classification)
+
+## Визуализация
+
+- [Аналитический дашборд Power BI](https://github.com/MariaKlm0519/Power-BI-Hotel-project)
 
 ## Сертификаты
 
