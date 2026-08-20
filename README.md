@@ -78,6 +78,7 @@
 
 - [Симулятор SQL от karpov.course](https://lab.karpov.courses/certificate/1acc9aa7-36bf-4c36-84f5-c0e581acb78c/)
 - [Основы статистики](https://stepik.org/certificate/bf466d49f2ac529f88c6fee063781f4572d9105e.pdf)
+- [Лекторий по основам машинного обучения VK](https://education.vk.company/curriculum/certificates/download/134129/a34f1c45-44ba-4ca7-9159-be3864f939e1/)
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/kalmykovamaria/intermediate-machine-learning)
 - [Pandas](https://www.kaggle.com/learn/certification/kalmykovamaria/pandas)
 ---
